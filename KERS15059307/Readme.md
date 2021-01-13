@@ -1,11 +1,3 @@
-# Pensionnaire pour chiens Kéroack
-
-Le site web est développé avec :
-
-+ HTML 5
-+ PHP 7.4
-+ CSS 3
-
 ## Sources
 
 Les fichiers sources sont entreposé dans le lien GitHub suivant : 
