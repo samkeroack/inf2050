@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="205480c2-a3b3-4df0-8c95-22265b1c6fc6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cUwEi2jiKmi9DgPVcMWW4z4VmC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Projet de Session" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samuel Kéroack\OneDrive - UQAM\Été 2020\INF2050\KERS15059307\Projet de Session" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Principal" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="Projet de Session" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Samuel Kéroack\OneDrive - UQAM\Été 2020\INF2050\KERS15059307\Projet de Session\input.json&quot; &quot;C:\Users\Samuel Kéroack\OneDrive - UQAM\Été 2020\INF2050\KERS15059307\Projet de Session\output.json&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="commons-beanutils-1.8.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/Librairies/commons-beanutils-1.8.0.jar/" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="commons-collections-3.2.1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/Librairies/commons-collections-3.2.1.jar/" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="commons-lang-2.5.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../Librairies/commons-lang-2.5.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Samuel Kéroack\OneDrive - UQAM\Été 2020\INF2050\KERS15059307" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="commons-logging-1.1.1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/Librairies/commons-logging-1.1.1.jar/" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ezmorph-1.0.6.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/Librairies/ezmorph-1.0.6.jar/" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json-lib-2.4-jdk15.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/Librairies/json-lib-2.4-jdk15.jar/" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Principal" />
+      <item itemvalue="JAR Application.commons-lang-2.5.jar" />
+      <item itemvalue="JAR Application.commons-logging-1.1.1.jar" />
+      <item itemvalue="JAR Application.ezmorph-1.0.6.jar" />
+      <item itemvalue="JAR Application.json-lib-2.4-jdk15.jar" />
+      <item itemvalue="JAR Application.commons-beanutils-1.8.0.jar" />
+      <item itemvalue="JAR Application.commons-collections-3.2.1.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.commons-collections-3.2.1.jar" />
+        <item itemvalue="JAR Application.commons-logging-1.1.1.jar" />
+        <item itemvalue="JAR Application.commons-beanutils-1.8.0.jar" />
+        <item itemvalue="JAR Application.json-lib-2.4-jdk15.jar" />
+        <item itemvalue="JAR Application.ezmorph-1.0.6.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="205480c2-a3b3-4df0-8c95-22265b1c6fc6" name="Default Changelist" comment="" />
+      <created>1590596369136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590596369136</updated>
+      <workItem from="1590596370870" duration="40801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="0" width="577" height="680" key="#Principal" timestamp="1590601260930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="678" y="0" width="577" height="680" key="#Principal/0.0.1280.680@0.0.1280.680" timestamp="1590601260930" />
+    <state x="122" y="0" key="#Project_Structure" timestamp="1590758430265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="122" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1590758430265" />
+    <state x="339" y="0" width="616" height="680" key="#Unnamed" timestamp="1590600773603">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="339" y="0" width="616" height="680" key="#Unnamed/0.0.1280.680@0.0.1280.680" timestamp="1590600773603" />
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590759585017">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590759585017" />
+    <state x="422" y="46" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1590600565670">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="46" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1590600565670" />
+    <state x="447" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1590682486178">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="447" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590682486178" />
+    <state x="326" y="52" width="538" height="576" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1590758420050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="326" y="52" width="538" height="576" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1590758420050" />
+    <state x="250" y="96" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1590683942845">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="250" y="96" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590683942845" />
+    <state x="389" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590758649462">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="389" y="206" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1590758649462" />
+    <state x="315" y="226" key="DetectedRootsChooserDialog" timestamp="1590757962626">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="315" y="226" key="DetectedRootsChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1590757962626" />
+    <state x="94" y="94" width="1092" height="492" key="DiffContextDialog" timestamp="1590758300398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="94" y="94" width="1092" height="492" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1590758300398" />
+    <state x="361" y="39" key="FileChooserDialogImpl" timestamp="1590778119043">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="39" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590778119042" />
+    <state width="1237" height="285" key="GridCell.Tab.0.bottom" timestamp="1590778120746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="285" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590778120746" />
+    <state width="1237" height="285" key="GridCell.Tab.0.center" timestamp="1590778120746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="285" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590778120746" />
+    <state width="1237" height="285" key="GridCell.Tab.0.left" timestamp="1590778120745">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="285" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590778120745" />
+    <state width="1237" height="285" key="GridCell.Tab.0.right" timestamp="1590778120746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="285" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590778120746" />
+    <state width="1237" height="285" key="GridCell.Tab.1.bottom" timestamp="1590778120747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="285" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590778120747" />
+    <state width="1237" height="285" key="GridCell.Tab.1.center" timestamp="1590778120747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="285" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590778120747" />
+    <state width="1237" height="285" key="GridCell.Tab.1.left" timestamp="1590778120746">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="285" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590778120746" />
+    <state width="1237" height="285" key="GridCell.Tab.1.right" timestamp="1590778120747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="285" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590778120747" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1590759261360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590759261360" />
+    <state x="352" y="73" width="575" height="592" key="find.popup" timestamp="1590758729496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="352" y="73" width="575" height="592" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1590758729496" />
+    <state x="63" y="0" key="new project wizard" timestamp="1590760696271">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="63" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1590760696271" />
+  </component>
+</project>
