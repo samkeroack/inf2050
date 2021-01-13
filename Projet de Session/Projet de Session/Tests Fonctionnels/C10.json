@@ -1,0 +1,22 @@
+{
+"nom": "Samuel Kéroack",
+"genre": 1,
+"date_de_naissance": "2001-12-03",
+ "assurance_collective": false,
+"fumeur": {
+"tabac": false,
+"cannabis": false
+},
+ "alcool": true,
+ "antecedents": [
+ {
+ "diagnostic": "Colon irritable",
+ "depuis": "2010-10-04"
+ },
+ {
+ "diagnostic": "COVID-19",
+ "depuis": "2020-01-03"
+ }
+ ],
+ "sports": ["Arts martiaux", "Baseball"],
+}

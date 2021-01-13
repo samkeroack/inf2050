@@ -1,0 +1,22 @@
+{
+"nom": "Samuel Kéroack",
+"genre": 9,
+"date_de_naissance": "1987-12-03",
+ "assurance_collective": false,
+"fumeur": {
+"tabac": false,
+"cannabis": false
+},
+ "alcool": false,
+ "antecedents": [
+ {
+ "diagnostic": "COVID-21",
+ "depuis": "2020-01-03"
+ },
+{
+ "diagnostic": "COVID-22",
+ "depuis": "2020-01-03"
+ }
+ ],
+ "sports": [""],
+}
